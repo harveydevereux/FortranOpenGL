@@ -2,6 +2,8 @@
 
 Shows some text in red and you can quit the app!
 
+![Screenshot from 2022-12-02 13-13-53](https://user-images.githubusercontent.com/33522054/205300936-1185ab60-5660-481b-b76e-68c7d31ed25b.png)
+
 The code uses Opengl 1.x.x APIs, using F03GL (see below readme) to
 expose OpenGL to Fortran
 
