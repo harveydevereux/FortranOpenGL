@@ -2,7 +2,19 @@
 
 Shows some text in red and you can quit the app!
 
-The code uses Opengl 1.x.x APIs
+The code uses Opengl 1.x.x APIs, using F03GL (see below readme) to
+expose OpenGL to Fortran
+
+Tested on ubuntu 22.04.1 LTS with Mesa Intel® HD Graphics 4400 (HSW GT2)
+  using 
+   - gfortran 11.3.0
+   - make 4.3
+   
+Build by calling 
+`make`
+
+You may have to install opengl, glu, and glut dev packages etc
+
 
 ### F03GL readme - Anthony Stone and Aleksandar Donev, below
 
